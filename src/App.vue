@@ -6,6 +6,7 @@
 </template>
 
 <script>
+console.log('++++++++++++++++++++++++++++')
 import Index from './components/index.js';
 import SchemaData from './schema.json';
 export default {
